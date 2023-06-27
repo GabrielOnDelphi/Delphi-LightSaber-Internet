@@ -3,10 +3,13 @@
 **DESCRIPTION**  
 A collection of Internet-related units.
 
-**SOURCE CODE**  
-This library is now part of the [LightSaber Core](https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib) library.
+**Downloading the code**  
 
-========================================================
+This repository is only a placeholder and source of information. It is not updated since 01.2023.
+The code should be downloaded now from the [LightSaber Core](https://github.com/GabrielOnDelphi/Delphi-LightSaber) repository.
+
+_________________
+
 
 **ciUpdater**
 
