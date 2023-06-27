@@ -1,6 +1,8 @@
 # Delphi-LightSaber-SelfTranslator
 A collection of Internet-related units.
 
+========================================================
+
 **ciUpdater**
 
    Automatic program Updater & News announcer
@@ -21,26 +23,26 @@ A collection of Internet-related units.
       The data is kept in a binary file. A graphic editor is available for this. The file is extensible (it can be easily expanded to accept new features).
       See the RNews record.
       
-==============================================================================================================
+========================================================
 
 **ciInternet**
       
    URL utils / URL parsing and validation
          
-==============================================================================================================
+========================================================
 
 **ciEmail**
 
    Functions for working with email addresses (email validation, etc)
 
-==============================================================================================================
+========================================================
 
 **ciHtmlWriter**
 
    Basic objects that allow you to enter miscellaneous HTML parts such as
    keywords, title, and body text and write this data to disk as an HTML file.
    
-==============================================================================================================
+========================================================
 
 **ciHtmlImg**
 
@@ -50,32 +52,32 @@ A collection of Internet-related units.
    Extract IMG tags
    Extract URLs from IMG/A HREF tags
 
-==============================================================================================================
+========================================================
 
 **ciHtml**
 
   HTML Parsing
-
-==============================================================================================================
+  
+========================================================
 
 **ciDownloadThread**
 
   Downloads a file [ via WinInet ]
    
-==============================================================================================================
+========================================================
 
 **ciEmailSender**
 
    Universal 'SendMail' function
    
-==============================================================================================================
+========================================================
 
 **ciDownload**
 
    DOWNLOAD A FILE FROM THE INTERNET
    Uses WinInet (slow!) and System.Net.HttpClient.
    
-==============================================================================================================
+========================================================
 
 **ciCommonWebDown**
 
@@ -86,4 +88,4 @@ A collection of Internet-related units.
     The user provides the URL of a web page that holds an image.
     The program will try to automatically locate the high res image from that page.
 
-    
+========================================================
