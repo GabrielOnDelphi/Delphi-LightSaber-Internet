@@ -1,5 +1,10 @@
 # Delphi-LightSaber-SelfTranslator
+
+DESCRIPTION
 A collection of Internet-related units.
+
+SOURCE CODE  
+This library is now part of the [LightSaber Core](https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib) library.
 
 ========================================================
 
