@@ -1,4 +1,4 @@
-# Delphi-LightSaber-SelfTranslator
+# Delphi-LightSaber-Internet
 
 **DESCRIPTION**  
 A collection of Internet-related units.
